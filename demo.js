@@ -1,2 +1,3 @@
- var a = 100;
-alert(a):
+var a = 100;
+console.log('Guru raj');
+alert(a);
